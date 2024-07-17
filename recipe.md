@@ -1,5 +1,5 @@
 <!--The measurements for all the ingredients are mention in ingredients.md-->
-## Recipe: 
+## Recipe
 
 1. Mix the following in one bowl  
     • flour  
