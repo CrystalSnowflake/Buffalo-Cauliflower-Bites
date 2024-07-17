@@ -1,1 +1,1 @@
-The Buffalo Cauliflower Bites are very saucy and a great healthy vegetarian alternative for bufallo chicken. It is crispy and melts in your mouth. It is a great snack for days where you feel like lazing around and for making something for your guests.
+*The Buffalo Cauliflower Bites are very saucy and a great healthy vegetarian alternative for bufallo chicken. It is crispy and melts in your mouth. It is a great snack for days where you feel like lazing around and for making something for your guests.*
