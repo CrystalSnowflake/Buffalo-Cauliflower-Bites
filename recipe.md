@@ -1,12 +1,12 @@
-/*The measurements for all the ingredients are mention in ingredients.md*/
-Recipe: 
+<!--The measurements for all the ingredients are mention in ingredients.md-->
+## Recipe: 
 
-1. Mix the following in one bowl
-    • flour
-    • garlic powder
-    • paprika
-    • onion powder
-    • Salt/Pepper (your choice)
+1. Mix the following in one bowl  
+    • flour  
+    • garlic powder  
+    • paprika  
+    • onion powder  
+    • Salt/Pepper (your choice)  
 
 2. Add water to the mix.
 
@@ -14,10 +14,10 @@ Recipe:
 
 4. Fry / air-fry it at 350° for 10 minutes (NO PREHEAT)
 
-5. While its frying, make the bufallo sauce. Mix the following in a seperate bowl.
-    • hot sauce
-    • butter
-    • honey
+5. While its frying, make the bufallo sauce. Mix the following in a seperate bowl.  
+    • hot sauce  
+    • butter  
+    • honey  
 
 6. Add the sauce to cauliflower while its frying.
 
